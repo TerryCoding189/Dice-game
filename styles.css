@@ -31,9 +31,10 @@ p {
 img {
   width: 80%;
 }
+.clickBtn {
+	text-align: center;
+}
 .refreshButton {
-  position: absolute;
-  margin-left: 600px;
 	background-color:#39a355;
 	border-radius:14px;
 	border:1px solid #1c8527;
